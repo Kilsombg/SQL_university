@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS university;
+CREATE DATABASE university;
 USE university;
 
 /* По даден проект училище трябва да организира извънучилищни спортни клубове. 
